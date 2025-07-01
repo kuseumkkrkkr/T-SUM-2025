@@ -6,7 +6,7 @@ Law (Labor Standards Act of Korean) embbeding RAG
 
 - Certified Public Labor Attorney(CPLA) "노무사" could commonly use this
 
-[embed1.jpg]
+![embed2](embed2.jpg)
 
 # Not Finished
 
