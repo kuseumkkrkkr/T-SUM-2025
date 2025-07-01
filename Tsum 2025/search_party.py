@@ -3,7 +3,7 @@ import numpy as np
 import faiss
 import pickle
 
-openai.api_key = "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"
+openai.api_key = 
 
 # 임베딩, 문서, 인덱스 로드
 documents = None
