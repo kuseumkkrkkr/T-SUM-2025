@@ -23,7 +23,7 @@ pca = PCA(n_components=3)
 embeddings_3d = pca.fit_transform(embeddings)
 
 # OpenAI API 키 설정
-openai.api_key = "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"  # 여기에 본인의 OpenAI API 키를 입력하세요
+openai.api_key = 
 
 def get_query_embedding(query):
     try:
