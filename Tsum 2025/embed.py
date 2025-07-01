@@ -6,8 +6,7 @@ import numpy as np
 import faiss
 import pickle
 
-openai.api_key = "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"  # 여기에 본인의 OpenAI API 키를 입력하세요
-
+openai.api_key = "API_KEY"
 documents = [
     "이재명 더불어민주당 대표",
     "윤석열 대통령 국민의힘",
